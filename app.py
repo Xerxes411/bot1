@@ -5,9 +5,9 @@ st.balloons()
 # Show title and description.
 st.title("♫ Berserk")
 st.write(
-   "This is a simple chatbot that uses OpenAI's GPT-3.5 model to generate responses. "
-   "To use this app, you need to provide an OpenAI API key, which you can get [here](https://platform.openai.com/account/api-keys). "
-   "You can also learn how to build this app step by step by [following our tutorial](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)."
+   "Esta es una aplicación impulsada por OpenAI, un modelo que genera respuestas ♫◄‼‼►♫. "
+   "Para usar esta aplicación, necesitas proporcionar una clave de API de OpenAI, la cual puedes obtener. [here](https://platform.openai.com/account/api-keys). "
+   "Aquí te recomiendo un video de una entrevista a MrBeast hecha por CR7 [following our tutorial](https://www.youtube.com/watch?v=aDF_ESN80r8)."
 )
 openai_api_key = st.secrets["api_key"] 
 # Create an OpenAI client.
