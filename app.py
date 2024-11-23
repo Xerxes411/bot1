@@ -3,7 +3,7 @@ from openai import OpenAI
 
 st.balloons()
 # Show title and description.
-st.title("♫ Berserk")
+st.title("♫ Berserk ♫")
 st.write(
    "Esta es una aplicación impulsada por OpenAI, un modelo que genera respuestas ♫◄‼‼►♫. "
    "Para usar esta aplicación, necesitas proporcionar una clave de API de OpenAI, la cual puedes obtener. [here](https://platform.openai.com/account/api-keys). "
