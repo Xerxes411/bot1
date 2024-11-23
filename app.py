@@ -7,7 +7,7 @@ st.title("♫ Berserk ♫")
 st.write(
    "Esta es una aplicación impulsada por OpenAI, un modelo que genera respuestas ♫◄‼‼►♫. "
    "Para usar esta aplicación, necesitas proporcionar una clave de API de OpenAI, la cual puedes obtener. [here](https://platform.openai.com/account/api-keys). "
-   "Aquí te recomiendo un video de una entrevista a MrBeast hecha por CR7 [following our tutorial](https://www.youtube.com/watch?v=aDF_ESN80r8)."
+   "Aquí te recomiendo un video de una entrevista a MrBeast hecha por CR7 [Enlace a Youtube](https://www.youtube.com/watch?v=aDF_ESN80r8)."
 )
 openai_api_key = st.secrets["api_key"] 
 # Create an OpenAI client.
